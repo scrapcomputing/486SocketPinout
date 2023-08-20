@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2023-08-21 13:52:08 -->
+<!-- Magnification: 4 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="2029pt" height="1991pt"
+	viewBox="1860 1620 8451 8295">
+<g fill="none">
+<!-- Circle -->
+<circle cx="8775" cy="7650" r="106" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="3750" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="3450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="7425" r="106" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4054" cy="7425" r="42" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="3750" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">P</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">N</text>
+<!-- Text -->
+<text xml:space="preserve" x="4650" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">M</text>
+<!-- Text -->
+<text xml:space="preserve" x="5550" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">K</text>
+<!-- Text -->
+<text xml:space="preserve" x="6450" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">H</text>
+<!-- Text -->
+<text xml:space="preserve" x="6900" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">G</text>
+<!-- Text -->
+<text xml:space="preserve" x="8700" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">C</text>
+<!-- Text -->
+<text xml:space="preserve" x="9150" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="2400" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">S</text>
+<!-- Text -->
+<text xml:space="preserve" x="2850" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">R</text>
+<!-- Text -->
+<text xml:space="preserve" x="3300" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">Q</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">L</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">J</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">F</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">E</text>
+<!-- Text -->
+<text xml:space="preserve" x="9600" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="8250" y="1800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">D</text>
+<!-- Circle -->
+<circle cx="9675" cy="7650" r="106" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9679" cy="7650" r="42" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="7950" r="106" fill="#ffffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 3975,7875 4125,8025"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 3975,8025 4125,7875"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 8700,7575 8850,7725"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 8700,7725 8850,7575"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6075" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="2700" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="3150" r="106" fill="#ffd600"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="3150" r="106" fill="#ff00ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<!-- VCC5 -->
+<circle cx="2475" cy="3600" r="106" fill="#00ffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="3600" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="4050" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="4050" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="4050" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="4500" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="4950" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="4950" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="4950" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="5850" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="5400" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="6300" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="7200" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="7200" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="6750" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="7650" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="7650" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="7650" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="8100" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6075" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="8550" r="106" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="8550" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="3600" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="4050" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="4500" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="4500" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="4500" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="4950" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="5400" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="5400" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="5400" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="5850" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="6300" r="106" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="6300" r="106" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="6750" r="106" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="7200" r="106" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="7200" r="106" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="7200" r="106" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="7650" r="106" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="8100" r="106" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="8100" r="106" fill="#ff00ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="8100" r="106" fill="#ff00ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="8550" r="106" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="8550" r="106" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6075" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6075" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="9000" r="106" fill="#ff00ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="9000" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="9450" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="4800" r="106" fill="#00ff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="5325" r="106" fill="#ffff00"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="5850" r="106" fill="#ff00ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="6375" r="106" fill="#00ffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="6900" r="106" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4050" cy="4275" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="3150" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="5400" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="5850" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="6300" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="6750" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="6750" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="5400" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="3600" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="2700" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4275" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3375" cy="2700" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="2700" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<!-- VCC5 -->
+<circle cx="6075" cy="2250" r="106" fill="#00ffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="2700" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7425" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="2700" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="2250" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8325" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="2250" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="3150" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="3600" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="3600" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="8775" cy="4050" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="4050" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="4950" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="4950" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="5850" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="5850" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="6300" r="106" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9225" cy="6750" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="9675" cy="6750" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="7875" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6975" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6525" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5625" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="5175" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="4725" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="9000" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="3825" cy="9450" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="8100" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="8100" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="7200" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="6300" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="5850" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="4500" r="106" fill="#ff0000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2475" cy="4500" r="106" fill="#0000ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="6075" cy="3150" r="106"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2925" cy="9450" r="106" fill="#00ffff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="7350" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="8250" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="4500" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="5025" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="6075" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="6600" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="7125" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="3975" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3825" y="7650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 8100,3300 8550,3750"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 9450,1950 9825,1950 9900,2025 9900,2400 9450,2400 9450,1950"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="5100" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4050" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3150" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7200" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="2400" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8100" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="1950" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="3300" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="8550" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="3750" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="4650" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9000" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="9450" y="6450" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="7650" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6750" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="6300" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4950" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4500" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3600" y="9150" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="7800" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="6900" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="6000" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="5550" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2250" y="4200" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5850" y="2850" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="2700" y="8700" width="450" height="450"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A28</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A31</text>
+<!-- Text -->
+<text xml:space="preserve" x="3750" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D0</text>
+<!-- Text -->
+<g transform="translate(9075,2100) rotate(-0)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D19</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="9525" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D20</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A26</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A25</text>
+<!-- Text -->
+<text xml:space="preserve" x="3675" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A29</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D1</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D6</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D5</text>
+<!-- Text -->
+<text xml:space="preserve" x="6450" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D3</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D8</text>
+<!-- Text -->
+<text xml:space="preserve" x="8175" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D13</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D18</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D21</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="2550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D22</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A23</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A17</text>
+<!-- Text -->
+<text xml:space="preserve" x="3675" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A30</text>
+<!-- Text -->
+<text xml:space="preserve" x="4125" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">DP0</text>
+<!-- Text -->
+<text xml:space="preserve" x="4650" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D4</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D7</text>
+<!-- Text -->
+<text xml:space="preserve" x="5475" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D14</text>
+<!-- Text -->
+<text xml:space="preserve" x="6375" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">DP2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D12</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D15</text>
+<!-- Text -->
+<text xml:space="preserve" x="7725" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D10</text>
+<!-- Text -->
+<text xml:space="preserve" x="8175" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D17</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">CLK</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">TCK</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="3450" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A19</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="3900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A14</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="3900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A18</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="3900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A21</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="4350" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A24</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="4800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A12</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="4800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A15</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="4800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A22</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="5700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A13</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="5250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A20</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="6150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A16</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="7050" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A11</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="7050" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A5</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="6600" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A9</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="7500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A10</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="7500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A8</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="7500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A7</text>
+<!-- Text -->
+<text xml:space="preserve" x="3225" y="7950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A2</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A6</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A3</text>
+<!-- Text -->
+<text xml:space="preserve" x="3675" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">HLDA</text>
+<!-- Text -->
+<text xml:space="preserve" x="4125" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">LOCK</text>
+<!-- Text -->
+<text xml:space="preserve" x="4575" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D/C</text>
+<!-- Text -->
+<text xml:space="preserve" x="5025" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">PWT</text>
+<!-- Text -->
+<text xml:space="preserve" x="5475" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">BE0</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">BE2</text>
+<!-- Text -->
+<text xml:space="preserve" x="6375" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">BRDY</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">KEN</text>
+<!-- Text -->
+<text xml:space="preserve" x="7725" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">HOLD</text>
+<!-- Text -->
+<text xml:space="preserve" x="8175" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">A20M</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="3450" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D23</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="3900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">DP3</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="4350" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D27</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="4350" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D25</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="4350" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D24</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="4800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D26</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="5250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D28</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="5250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D31</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="5250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D29</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="5700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D30</text>
+<!-- Text -->
+<text xml:space="preserve" x="8550" y="6150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">SRESET</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="6150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">SMI</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="6600" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">UP</text>
+<!-- Text -->
+<text xml:space="preserve" x="9000" y="7500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">WB/WT</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="7950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">FERR</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="7950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">TMS</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="7950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">TDI</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="8400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">NMI</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A4</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">ADS</text>
+<!-- Text -->
+<text xml:space="preserve" x="4125" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">M/IO</text>
+<!-- Text -->
+<text xml:space="preserve" x="4125" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">W/R</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">BE1</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">PCD</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">RDY</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">BE3</text>
+<!-- Text -->
+<text xml:space="preserve" x="8175" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">BS8</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">RESET</text>
+<!-- Text -->
+<text xml:space="preserve" x="9075" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">TDO</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="8850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">INTR</text>
+<!-- Text -->
+<text xml:space="preserve" x="8175" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">BOFF</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">BS16</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="3750" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">VSS</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="4275" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">VCC</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="4800" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Power Management</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="5325" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">SX</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="5850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Boundary Scan</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="6375" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Other</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="6900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Write Back</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="7425" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Internally Not Connected</text>
+<!-- Text -->
+<text xml:space="preserve" x="4350" y="7950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Not Connected</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="3825" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">486 DX4-WB</text>
+<!-- Text -->
+<text xml:space="preserve" x="3190" y="8397" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">BREQ</text>
+<!-- Text -->
+<text xml:space="preserve" x="9486" y="9294" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">AHOLD</text>
+<!-- Text -->
+<text xml:space="preserve" x="9057" y="9300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">EADS</text>
+<!-- Text -->
+<text xml:space="preserve" x="9486" y="8403" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">GNNE</text>
+<!-- Text -->
+<text xml:space="preserve" x="9507" y="7053" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="108" text-anchor="start">HITM</text>
+<!-- Text -->
+<text xml:space="preserve" x="9021" y="7044" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">CACHE</text>
+<!-- Text -->
+<text xml:space="preserve" x="3203" y="9305" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">PCHK</text>
+<!-- Text -->
+<text xml:space="preserve" x="2325" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">A27</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="2250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="2700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="3150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">3</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="3600" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">4</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="4050" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="4500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="4950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">7</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="5400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="1950" y="5850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="6300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">10</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="6750" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">11</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="7200" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">12</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="7650" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">13</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="8100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">14</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="8550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">15</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="9000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">16</text>
+<!-- Text -->
+<text xml:space="preserve" x="1875" y="9450" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">17</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D2</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">VCC5</text>
+<!-- Text -->
+<text xml:space="preserve" x="7275" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">DP1</text>
+<!-- Text -->
+<text xml:space="preserve" x="8250" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D9</text>
+<!-- Text -->
+<text xml:space="preserve" x="8625" y="2100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D11</text>
+<!-- Text -->
+<text xml:space="preserve" x="9525" y="6150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">INV</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="2250" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="2700" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="3150" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">3</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="3600" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">4</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="4050" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">5</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="4500" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">6</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="4950" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">7</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="5400" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">8</text>
+<!-- Text -->
+<text xml:space="preserve" x="10125" y="5850" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">9</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="6300" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">10</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="6750" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">11</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="7200" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">12</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="7650" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">13</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="8100" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">14</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="8550" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">15</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="9000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">16</text>
+<!-- Text -->
+<text xml:space="preserve" x="10050" y="9450" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">17</text>
+<!-- Text -->
+<text xml:space="preserve" x="3750" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">P</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">N</text>
+<!-- Text -->
+<text xml:space="preserve" x="4650" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">M</text>
+<!-- Text -->
+<text xml:space="preserve" x="5550" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">K</text>
+<!-- Text -->
+<text xml:space="preserve" x="6450" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">H</text>
+<!-- Text -->
+<text xml:space="preserve" x="6900" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">G</text>
+<!-- Text -->
+<text xml:space="preserve" x="8700" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">C</text>
+<!-- Text -->
+<text xml:space="preserve" x="9150" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">B</text>
+<!-- Text -->
+<text xml:space="preserve" x="2400" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">S</text>
+<!-- Text -->
+<text xml:space="preserve" x="2850" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">R</text>
+<!-- Text -->
+<text xml:space="preserve" x="3300" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">Q</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">L</text>
+<!-- Text -->
+<text xml:space="preserve" x="6000" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">J</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">F</text>
+<!-- Text -->
+<text xml:space="preserve" x="7800" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">E</text>
+<!-- Text -->
+<text xml:space="preserve" x="9600" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">A</text>
+<!-- Text -->
+<text xml:space="preserve" x="8250" y="9900" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="144" text-anchor="start">D</text>
+<!-- Text -->
+<text xml:space="preserve" x="5925" y="3000" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">D16</text>
+<!-- Text -->
+<text xml:space="preserve" x="2709" y="8847" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">BLAST</text>
+<!-- Text -->
+<text xml:space="preserve" x="3152" y="8847" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="96" text-anchor="start">PLOCK</text>
+<!-- Text -->
+<text xml:space="preserve" x="2811" y="9243" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">CLK</text>
+<!-- Text -->
+<text xml:space="preserve" x="2820" y="9339" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">MUL</text>
+<!-- Text -->
+<text xml:space="preserve" x="2381" y="3489" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">DET</text>
+<!-- Text -->
+<text xml:space="preserve" x="2382" y="3395" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">VOL</text>
+<!-- Text -->
+<text xml:space="preserve" x="8669" y="6995" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">SMI</text>
+<!-- Text -->
+<text xml:space="preserve" x="8660" y="7089" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">ACT</text>
+<!-- Text -->
+<text xml:space="preserve" x="8594" y="8392" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">FLUSH</text>
+<!-- Text -->
+<text xml:space="preserve" x="6868" y="8344" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">STP</text>
+<!-- Text -->
+<text xml:space="preserve" x="6868" y="8438" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="normal" font-size="84" text-anchor="start">CLK</text>
+</g>
+</svg>
